@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "183868396031",
+    "firebase_url": "https://app-angular-6331a-default-rtdb.firebaseio.com",
+    "project_id": "app-angular-6331a",
+    "storage_bucket": "app-angular-6331a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183868396031:android:f542f3e647dc62731997ca",
+        "android_client_info": {
+          "package_name": "com.example.app_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7bH3UDVn8pC2vmaRmUhHisTYHOfP7i-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183868396031:android:05bb02d7da53493a1997ca",
+        "android_client_info": {
+          "package_name": "com.example.app_fire_datos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7bH3UDVn8pC2vmaRmUhHisTYHOfP7i-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
